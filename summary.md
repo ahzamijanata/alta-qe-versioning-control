@@ -32,3 +32,9 @@ secara berkelompok atau banyak orang.
 ### 1. Membuat Repository dan membuat branch sebanyak 4 buah serta melakukan merge
 
 Pada task ini, membuat repository dan membuat branch sebanyak 4 buah serta melakukan merge.
+
+Berikut kode hasil dari praktikum ini.
+
+output:
+
+![Network](./screenshots/versioning-control.png)
