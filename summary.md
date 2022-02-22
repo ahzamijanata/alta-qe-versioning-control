@@ -37,4 +37,4 @@ Berikut kode hasil dari praktikum ini.
 
 output:
 
-![Network](./screenshots/versioning-control.png)
+![versioning-control](./screenshots/versioning-control.png)
