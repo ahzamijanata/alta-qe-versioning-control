@@ -37,4 +37,4 @@ Berikut kode hasil dari praktikum ini.
 
 output:
 
-![versioning-control](./screenshots/versioning-control.png)
+![versioning-control](https://user-images.githubusercontent.com/84959625/155147707-dd9f2dbd-467f-4ce7-99ec-84f573186466.png)
